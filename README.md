@@ -43,8 +43,8 @@ The code is ran through **diabetes-prediction-modeling-FINAL.ipynb**. My other c
 
 ## TEAM
 
-Sami Chowdhury
-(Yiannis Pagkalos)[https://github.com/yiannisp1822]
-(Lauren Christiansen)[https://github.com/lmc5440]
-(Mei Kam Bharadwaj)[https://github.com/meikaykam]
-Dhwani Patel
+- Sami Chowdhury
+- (Yiannis Pagkalos)[https://github.com/yiannisp1822]
+- (Lauren Christiansen)[https://github.com/lmc5440]
+- (Mei Kam Bharadwaj)[https://github.com/meikaykam]
+- Dhwani Patel
